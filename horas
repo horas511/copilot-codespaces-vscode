@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقعي البسيط</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+        }
+        main {
+            margin: 20px;
+        }
+        footer {
+            background-color: #f1f1f1;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>مرحبًا بك في موقعي البسيط!</h1>
+    </header>
+    <main>
+        <p>هذا موقع إلكتروني بسيط فارغ. يمكنك تعديل المحتوى هنا.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 موقعي البسيط</p>
+    </footer>
+</body>
+</html>
